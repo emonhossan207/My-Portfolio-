@@ -17,11 +17,13 @@
 header{
     background-color: #FFF8F3;
     padding-top: 50px;
-    background: url("../hero-dev-portfolio-resources/images/developer.png"), url("../hero-dev-portfolio-resources/images/header_bg.png"),#FFF8F3;
+    background: url("../hero-dev-portfolio-resources/images/developer.png"),
+     url("../hero-dev-portfolio-resources/images/header_bg.png"),#FFF8F3;
     background-repeat: no-repeat;
     background-position: 25px 40px, bottom right;
 }
-nav{
+
+nav {
     width: 60%;
     max-width: 1140px;
     display: flex;
@@ -209,7 +211,7 @@ nav .menu a{
 
 }
 .resume-card .card-text{
-    ont-size: 16px;
+    font-size: 16px;
     line-height: 28px;
     color: #757575;
 }
